@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8284-CD74
+
+ Directory of C:\Users\prave\Desktop\myfolder
+
+12/04/2016  01:10 AM    <DIR>          .
+12/04/2016  01:10 AM    <DIR>          ..
+12/04/2016  12:14 AM                21 index.html
+12/04/2016  12:13 AM                 6 test.txt
+12/04/2016  01:10 AM                 0 test2.txt
+               3 File(s)             27 bytes
+               2 Dir(s)  912,974,786,560 bytes free
