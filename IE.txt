@@ -1,0 +1,6 @@
+public static void main(String[] args) {
+		// to download internetexplorer server - go to www.seleniumhq.org
+		// go to downloads and find The Internet Explorer Driver Server and download based on your OS (32bit or 64bit)
+		// initialize the webdriver 
+		System.setProperty("webdriver.ie.driver", "C:\\Users\\santi2\\Documents\\IEDriverServer.exe");
+		WebDriver driver = new InternetExplorerDriver(); // import the org.openqa.selenium.ie.InternetExplorerDriver
